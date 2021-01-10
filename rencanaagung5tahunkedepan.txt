@@ -2,6 +2,7 @@
 *ES6
 *Framework Javascript
   ^Vue
+  ^React
 - Stuktur data dasar
 - PHP Framework
   ^ Laravel
