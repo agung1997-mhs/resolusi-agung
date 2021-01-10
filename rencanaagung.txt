@@ -3,6 +3,7 @@
 *Framework Javascript
   ^Vue
   ^React
+  ^Angular
 - Stuktur data dasar
 - PHP Framework
   ^ Laravel
