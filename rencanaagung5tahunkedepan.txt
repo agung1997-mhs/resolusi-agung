@@ -1,7 +1,8 @@
 - Javascript
-  *ES6
-  *Framework Javascript
-  ^Angular
+*ES6
+*Framework Javascript
+  ^Vue
   ^React
+- Stuktur data dasar
 - PHP Framework
-  ^Laravel
+  ^ Laravel
