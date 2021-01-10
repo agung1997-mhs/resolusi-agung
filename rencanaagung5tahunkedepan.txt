@@ -1,4 +1,8 @@
-- punya mobil
-- punya rumah
-- ingin berangkatkan haji orang tua
-- menjadi orang yang sukses bagi negara, nusa, bangsa dan agama
+- Javascript
+*ES6
+*Framework Javascript
+  ^Vue
+  ^React
+- Stuktur data dasar
+- PHP Framework
+  ^ Laravel
